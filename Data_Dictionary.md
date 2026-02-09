@@ -1,6 +1,6 @@
 ●	annual_contract_value: Total dollar value of the contract for the 12 month period starting from the contract start date
 
-● sales_segment: Customer segment based size of the customer (Enterprise > Mid Market > SMB)
+● sales_segment: Customer segment based on size of the customer (Enterprise > Mid Market > SMB)
 
 ●	acquisition_channel: Channel through which the customer was acquired and onboarded (i.e. Inbound = customer directly reached out to us, Outbound = customer was contacted by a salesperson, Partner = customer was introduced by a partner, SelfServe = customer signed up for an account by themselves)
 
