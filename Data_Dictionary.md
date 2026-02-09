@@ -4,6 +4,6 @@
 
 ●	acquisition_channel: Channel through which the customer was acquired and onboarded (i.e. Inbound = customer directly reached out to us, Outbound = customer was contacted by a salesperson, Partner = customer was introduced by a partner, SelfServe = customer signed up for an account by themselves)
 
-●	initial_onboarding_score: initial assessment of the quality of the new customer (i.e. based on a mix of factors such as their likelihood to pay, their stability), the higher the score the better
+●	initial_onboarding_score: initial assessment of the quality of the new customer given by the salesperson in charge (i.e. based on a mix of factors such as their likelihood to pay, their stability), the higher the score the better
 
 ●	is_churned: 1 if customer terminated contract before the 12-month contract period is up. Choosing not to renew after the 12-month period is not considered as churned.
