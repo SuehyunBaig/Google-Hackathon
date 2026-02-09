@@ -2,7 +2,7 @@
 
 ● sales_segment: Customer segment based size of the customer (Enterprise > Mid Market > SMB)
 
-●	acquisition_channel: Channel through which the customer was acquired an onboarded (i.e. Inbound = customer directly reached out to us, Outbound = customer was contacted by a salesperson, Partner = customer was introduced by a partner, SelfServe = customer signed up for an account by themselves)
+●	acquisition_channel: Channel through which the customer was acquired and onboarded (i.e. Inbound = customer directly reached out to us, Outbound = customer was contacted by a salesperson, Partner = customer was introduced by a partner, SelfServe = customer signed up for an account by themselves)
 
 ●	initial_onboarding_score: initial assessment of the quality of the new customer (i.e. based on a mix of factors such as their likelihood to pay, their stability), the higher the score the better
 
